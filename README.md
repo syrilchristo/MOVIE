@@ -14,12 +14,15 @@ You’ve got two options:
 
 Preview the notebook on GitHub:
 Check out the notebook right in your browser here:
-
+https://github.com/syrilchristo/MOVIE/blob/main/Model1.ipynb
 
 Open directly in Google Colab:
-Run it interactively in Colab with this link:
-Open in Google Colab
-
-Remember to replace your-username and your-repo with your GitHub info.
-
+Run it interactively in Colab with this link:https://colab.research.google.com/github/syrilchristo/MOVIE/blob/main/Model1.ipynb
 If GitHub isn’t cooperating, just upload the notebook manually to Colab and run it there.
+
+LIBRARIES USED;
+
+pandas
+matplotlib
+seaborn
+scikit-learn
