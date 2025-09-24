@@ -1,13 +1,12 @@
-IMDB MOVIE SENTIMENT ANALYSIS
-This basic Machine Learning model classifies movie sentiments as positive or negative.
+IMDB MOVIE SENTIMENT ANALYSIS: This basic Machine Learning model classifies movie sentiments as positive or negative.
 
 CONTENTS INSIDE ARE;
-Loading and cleaning the IMDB dataset (50,000 movie reviews)
-Preprocessing text with TF-IDF vectorization
-Training/testing split with balanced classes
-Training 3 different classifiers
-Evaluating and visualizing their accuracy, precision, recall, and F1-score
-Plotting confusion matrices for each model
+Loading and cleaning the IMDB dataset (50,000 movie reviews),
+Preprocessing text with TF-IDF vectorization,
+Training/testing split with balanced classes,
+Training 3 different classifiers,
+Evaluating and visualizing their accuracy, precision, recall, and F1-score,
+Plotting confusion matrices for each model.
 
 WAYS TO RUN THE MODEL
 You’ve got two options:
